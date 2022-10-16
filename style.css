@@ -1,0 +1,17 @@
+ul {
+	display: none;
+}
+
+.mostrar {
+	display: block
+}
+
+.nuevaImagen {
+  height: 200px;
+  width: 200px;
+}
+
+#imagenPortada {
+  height: 75%;
+  width: 75%;
+}
